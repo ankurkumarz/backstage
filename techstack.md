@@ -166,7 +166,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/backstage](https://github.com/ankurkumarz/backstage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|261<br/>Tools used|12/14/23 <br/>Report generated|
+|267<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -902,9 +902,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (176)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (182)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (176)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (182)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -973,6 +973,7 @@ Full tech stack [here](/techstack.md)
 |[aws4](https://www.npmjs.com/aws4)|v1.11.0|01/24/21|Jonah Back |MIT|N/A|
 |[bfj](https://www.npmjs.com/bfj)|v7.0.2|02/19/20|Fredrik Adelöw |MIT|N/A|
 |[canvas](https://www.npmjs.com/canvas)|v2.10.1|06/04/21|Patrik Oldsberg |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|04/05/20|Patrik Oldsberg |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v2.1.8|02/27/20|Patrik Oldsberg |MIT|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.2.6|05/27/21|Patrik Oldsberg |MIT|N/A|
 |[color](https://www.npmjs.com/color)|v3.1.3|08/07/21|dependabot[bot] |MIT|N/A|
@@ -988,6 +989,7 @@ Full tech stack [here](/techstack.md)
 |[cross-fetch](https://www.npmjs.com/cross-fetch)|v3.1.5|02/10/22|Fredrik Adelöw |MIT|N/A|
 |[d3-selection](https://www.npmjs.com/d3-selection)|v3.0.0|10/27/21|Brian Fletcher |ISC|N/A|
 |[d3-shape](https://www.npmjs.com/d3-shape)|v1.3.7|10/27/21|Brian Fletcher |ISC|N/A|
+|[dataloader](https://www.npmjs.com/dataloader)|v2.1.0|01/05/22|MT Lewis |MIT|N/A|
 |[del](https://www.npmjs.com/del)|v6.1.1|02/19/20|Fredrik Adelöw |MIT|N/A|
 |[diff](https://www.npmjs.com/diff)|v2.2.3|04/16/21|dependabot[bot] |BSD-3-Clause|[](https://github.com/advisories/GHSA-h6ch-v84p-w6p9) (High)|
 |[dockerode](https://www.npmjs.com/dockerode)|v3.3.4|11/18/21|blam |Apache-2.0|N/A|
@@ -1016,6 +1018,7 @@ Full tech stack [here](/techstack.md)
 |[http-errors](https://www.npmjs.com/http-errors)|v1.7.2|09/04/22|Patrik Oldsberg |MIT|N/A|
 |[http-proxy](https://www.npmjs.com/http-proxy)|v1.18.1|11/16/21|Camila Belo |MIT|N/A|
 |[http-proxy-middleware](https://www.npmjs.com/http-proxy-middleware)|v2.0.6|08/19/22|Patrik Oldsberg |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|08/22/22|Patrik Oldsberg |MIT|N/A|
 |[immer](https://www.npmjs.com/immer)|v1.10.0|05/19/21|Patrik Oldsberg |MIT|[CVE-2021-23436](https://github.com/advisories/GHSA-33f9-j839-rf8h) (Critical)<br/>[CVE-2021-3757](https://github.com/advisories/GHSA-c36v-fmgq-m8hx) (High)<br/>[CVE-2020-28477](https://github.com/advisories/GHSA-9qmh-276g-x5pj) (High)|
 |[inquirer](https://www.npmjs.com/inquirer)|v6.5.0|08/31/22|Luka Siric |MIT|N/A|
 |[isbinaryfile](https://www.npmjs.com/isbinaryfile)|v4.0.10|04/01/22|dependabot[bot] |MIT|N/A|
@@ -1029,6 +1032,7 @@ Full tech stack [here](/techstack.md)
 |[jss](https://www.npmjs.com/jss)|v10.6.0|03/29/22|Camila Belo |MIT|N/A|
 |[jwt-decode](https://www.npmjs.com/jwt-decode)|v3.1.2|12/02/20|dependabot[bot] |MIT|N/A|
 |[knex](https://www.npmjs.com/knex)|v2.3.0|06/21/22|renovate[bot] |MIT|[CVE-2016-20018](https://github.com/advisories/GHSA-4jv9-3563-23j3) (High)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|09/23/22|Frida Jacobsson |MIT|N/A|
 |[lunr](https://www.npmjs.com/lunr)|v2.3.9|02/26/22|Eric Peterson |MIT|N/A|
 |[marked](https://www.npmjs.com/marked)|v4.1.0|04/13/22|Phil Kuang |MIT|N/A|
 |[mime-types](https://www.npmjs.com/mime-types)|v2.1.35|08/19/22|Patrik Oldsberg |MIT|N/A|
@@ -1080,9 +1084,11 @@ Full tech stack [here](/techstack.md)
 |[uuid](https://www.npmjs.com/uuid)|v8.3.2|07/26/22|Matteo Silvestri |MIT|N/A|
 |[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v4.10.1|09/04/22|Patrik Oldsberg |MIT|N/A|
 |[webpack-node-externals](https://www.npmjs.com/webpack-node-externals)|v3.0.0|08/31/22|Luka Siric |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.8.2|06/15/22|Fredrik Adelöw |MIT|N/A|
 |[xml2js](https://www.npmjs.com/xml2js)|v0.4.19|02/24/21|alde |MIT|[CVE-2023-0842](https://github.com/advisories/GHSA-776f-qx25-q3cc) (Moderate)|
 |[yauzl](https://www.npmjs.com/yauzl)|v2.10.0|07/26/22|Matteo Silvestri |MIT|N/A|
 |[yeoman-environment](https://www.npmjs.com/yeoman-environment)|v3.10.0|02/11/22|Patrik Oldsberg |BSD-2-Clause|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.32.11|06/03/20|Patrik Oldsberg |MIT|N/A|
 |[zen-observable](https://www.npmjs.com/zen-observable)|v0.8.15|05/07/20|Fredrik Adelöw |MIT|N/A|
 
 <br/>
