@@ -1,11 +1,12 @@
 repo_name: ankurkumarz/backstage
 report_id: 0fb72ff752e9e99b8cca2d1385a65af0
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:38:49+00:00'
+timestamp: '2024-01-05T08:26:30+00:00'
 requested_by: Rugvip
 provider: github
 branch: master
-detected_tools_count: 261
+detected_tools_count: 267
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -43,6 +47,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: Nunjucks
   description: A templating language for JavaScript
@@ -53,6 +58,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1637/Microsoft.VisualStudio.Services.Icons.Default
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/scaffolder-backend/package.json
   detection_source: plugins/scaffolder-backend/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2021-11-19 14:54:57.000000000 Z
@@ -65,6 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/catalog-model/package.json
   detection_source: packages/catalog-model/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-05-28 09:52:50.000000000 Z
@@ -76,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/contrib/chart/backstage/files/create-backend-dbs.sql
   detection_source: contrib/chart/backstage/files/create-backend-dbs.sql
   last_updated_by: Martina Iglesias Fernandez
   last_updated_on: 2020-10-05 15:29:25.000000000 Z
@@ -87,6 +95,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -97,6 +106,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: YAML
   description: A straightforward machine parsable data serialization format designed
@@ -107,6 +117,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1744/yaml.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/catalog-model/package.json
   detection_source: packages/catalog-model/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-05-28 09:52:50.000000000 Z
@@ -120,6 +131,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-02-19 10:36:39.000000000 Z
@@ -148,6 +160,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/app-defaults/package.json
   detection_source: packages/app-defaults/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2022-08-22 13:39:42.000000000 Z
@@ -160,6 +173,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/contrib/docker/devops/Dockerfile
   detection_source: contrib/docker/devops/Dockerfile
   last_updated_by: Eric Swanson
   last_updated_on: 2021-03-29 22:47:27.000000000 Z
@@ -172,6 +186,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-02-19 10:36:39.000000000 Z
@@ -226,6 +241,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/5608/13690587.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/bitrise/package.json
   detection_source: plugins/bitrise/package.json
   last_updated_by: Peter Grauvogel
   last_updated_on: 2021-03-01 18:24:42.000000000 Z
@@ -252,6 +268,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2022-09-04 19:24:48.000000000 Z
@@ -264,6 +281,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/app/package.json
   detection_source: packages/app/package.json
   last_updated_by: Nikita Nek Dudnik
   last_updated_on: 2020-05-08 13:41:27.000000000 Z
@@ -275,6 +293,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/techdocs-node/package.json
   detection_source: plugins/techdocs-node/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2022-06-07 14:20:35.000000000 Z
@@ -299,6 +318,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/auth-backend/package.json
   detection_source: plugins/auth-backend/package.json
   last_updated_by: Raghunandan
   last_updated_on: 2020-05-15 11:02:25.000000000 Z
@@ -310,6 +330,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/api-docs/package.json
   detection_source: plugins/api-docs/package.json
   last_updated_by: github-actions[bot]
   last_updated_on: 2022-06-03 15:01:16.000000000 Z
@@ -335,6 +356,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/backend-common/package.json
   detection_source: packages/backend-common/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-04-29 07:28:50.000000000 Z
@@ -359,6 +381,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/.github/vale/Vocab/Backstage/accept.txt
   detection_source: ".github/vale/Vocab/Backstage/accept.txt"
   last_updated_by: Mayursinh Sarvaiya
   last_updated_on: 2020-10-02 05:20:47.000000000 Z
@@ -371,6 +394,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/9840/PqKLmP_S_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/microsite/data/plugins/argo-cd.yaml
   detection_source: microsite/data/plugins/argo-cd.yaml
   last_updated_by: Marek Całus
   last_updated_on: 2020-12-08 11:33:44.000000000 Z
@@ -396,6 +420,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/.github/codecov.yml
   detection_source: ".github/codecov.yml"
   last_updated_by: Himanshu Mishra
   last_updated_on: 2020-09-22 12:43:41.000000000 Z
@@ -422,6 +447,7 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/669/default_34b3b9b42d07c33ac47ecdff75dd6f4f82aa70ee.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/microsite/data/plugins/datadog.yaml
   detection_source: microsite/data/plugins/datadog.yaml
   last_updated_by: David Tuite
   last_updated_on: 2021-04-20 10:24:39.000000000 Z
@@ -434,6 +460,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -444,6 +471,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/package.json
   detection_source: package.json
   last_updated_by: Raghunandan Balachandran
   last_updated_on: 2020-01-31 15:54:06.000000000 Z
@@ -456,6 +484,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2022-02-15 20:27:12.000000000 Z
@@ -467,6 +496,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -476,6 +506,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/.github/workflows/automate_area-labels.yml
   detection_source: ".github/workflows/automate_area-labels.yml"
   last_updated_by: Renovate Bot
   last_updated_on: 2022-05-04 15:33:53.000000000 Z
@@ -488,6 +519,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2645/default_8f9d552b144493679449b16c79647da5787e808b.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/microsite/data/plugins/grafana.yaml
   detection_source: microsite/data/plugins/grafana.yaml
   last_updated_by: Kévin Gomez
   last_updated_on: 2021-10-11 20:31:45.000000000 Z
@@ -529,6 +561,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/contrib/chart/backstage/Chart.lock
   detection_source: contrib/chart/backstage/Chart.lock
   last_updated_by: Martina Iglesias Fernandez
   last_updated_on: 2020-10-05 15:29:25.000000000 Z
@@ -540,6 +573,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/search-backend-module-elasticsearch/package.json
   detection_source: plugins/search-backend-module-elasticsearch/package.json
   last_updated_by: Jussi Hallila
   last_updated_on: 2021-07-21 14:45:16.000000000 Z
@@ -551,6 +585,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-02-19 10:36:39.000000000 Z
@@ -562,6 +597,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/package.json
   detection_source: package.json
   last_updated_by: Crevil
   last_updated_on: 2022-07-09 07:13:07.000000000 Z
@@ -589,6 +625,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/backend/package.json
   detection_source: packages/backend/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-04-21 07:12:08.000000000 Z
@@ -601,6 +638,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/e2e-test/package.json
   detection_source: packages/e2e-test/package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2022-08-29 10:13:48.000000000 Z
@@ -612,6 +650,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/catalog-model/package.json
   detection_source: packages/catalog-model/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-05-28 09:52:50.000000000 Z
@@ -624,6 +663,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5326/6p1SNAJu.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/.snyk
   detection_source: packages/cli/.snyk
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2021-09-06 17:19:48.000000000 Z
@@ -636,6 +676,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: blam
   last_updated_on: 2022-08-22 11:20:49.000000000 Z
@@ -663,6 +704,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/contrib/terraform/techdocs-s3-storage/terraform.tf
   detection_source: contrib/terraform/techdocs-s3-storage/terraform.tf
   last_updated_by: blam
   last_updated_on: 2021-04-29 08:58:33.000000000 Z
@@ -676,6 +718,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/9791/IOUXc3V1_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/backend-test-utils/package.json
   detection_source: packages/backend-test-utils/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-01-05 04:15:27.000000000 Z
@@ -701,6 +744,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/cypress/.yarnrc
   detection_source: cypress/.yarnrc
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2022-04-13 11:34:10.000000000 Z
@@ -712,6 +756,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/code-coverage/package.json
   detection_source: plugins/code-coverage/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2021-04-20 12:49:17.000000000 Z
@@ -724,6 +769,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/21667/default_8e23e4cc0689aed92d026d2671e52e24c5940d14.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/backend-common/package.json
   detection_source: packages/backend-common/package.json
   last_updated_by: blam
   last_updated_on: 2020-12-21 14:38:53.000000000 Z
@@ -749,6 +795,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/storybook/package.json
   detection_source: storybook/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2020-03-23 15:58:16.000000000 Z
@@ -760,6 +807,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: blam
   last_updated_on: 2022-07-19 12:52:37.000000000 Z
@@ -785,6 +833,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Social Media Tools
   image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Tim Hansen
   last_updated_on: 2021-08-12 20:54:23.000000000 Z
@@ -797,6 +846,7 @@ tools:
   category: Collaboration
   sub_category: Project Management
   image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2020-02-19 10:36:39.000000000 Z
@@ -808,6 +858,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/contrib/docker/devops/Dockerfile
   detection_source: contrib/docker/devops/Dockerfile
   last_updated_by: Eric Swanson
   last_updated_on: 2021-03-29 22:47:27.000000000 Z
@@ -833,6 +884,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/search-backend-module-elasticsearch/package.json
   detection_source: plugins/search-backend-module-elasticsearch/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2022-09-04 19:24:48.000000000 Z
@@ -842,6 +894,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/app/public/index.html
   detection_source: packages/app/public/index.html
   last_updated_by: Raghunandan Balachandran
   last_updated_on: 2020-01-31 16:27:03.000000000 Z
@@ -853,6 +906,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/.github/vale/Vocab/Backstage/accept.txt
   detection_source: ".github/vale/Vocab/Backstage/accept.txt"
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2021-05-25 20:01:07.000000000 Z
@@ -878,6 +932,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10330/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/backend-common/package.json
   detection_source: packages/backend-common/package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2022-07-20 00:35:30.000000000 Z
@@ -905,6 +960,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/auth-backend/package.json
   detection_source: plugins/auth-backend/package.json
   last_updated_by: Joe Patterson
   last_updated_on: 2022-09-08 03:52:34.000000000 Z
@@ -916,6 +972,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -926,6 +983,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/backstage
   detection_source: Repo Metadata
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
@@ -935,6 +993,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/contrib/docker/devops/Dockerfile
   detection_source: contrib/docker/devops/Dockerfile
   last_updated_by: Eric Swanson
   last_updated_on: 2021-03-29 22:47:27.000000000 Z
@@ -944,6 +1003,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/backend-app-api/package.json
   detection_source: packages/backend-app-api/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2022-06-15 13:44:10.000000000 Z
@@ -953,6 +1013,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/48521/default_eea961e4c374e68a1c7eb5bbc9e4a39920890342.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/backend-tasks/package.json
   detection_source: packages/backend-tasks/package.json
   last_updated_by: Fredrik Adelöw
   last_updated_on: 2021-10-24 17:08:50.000000000 Z
@@ -962,6 +1023,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/cli/package.json
   detection_source: packages/cli/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2020-04-05 12:08:43.000000000 Z
@@ -970,6 +1032,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10611/69631.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/plugins/permission-backend/package.json
   detection_source: plugins/permission-backend/package.json
   last_updated_by: MT Lewis
   last_updated_on: 2022-01-05 12:34:46.000000000 Z
@@ -978,6 +1041,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/package.json
   detection_source: package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2022-08-22 08:45:00.000000000 Z
@@ -986,6 +1050,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/package.json
   detection_source: package.json
   last_updated_by: Frida Jacobsson
   last_updated_on: 2022-09-23 07:22:18.000000000 Z
@@ -994,6 +1059,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10756/339286.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/packages/config-loader/package.json
   detection_source: packages/config-loader/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2020-06-03 12:37:22.000000000 Z
@@ -1910,6 +1976,20 @@ tools:
   detection_source: plugins/cost-insights/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2021-06-04 09:33:42.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/cypress/yarn.lock
+  detection_source: packages/cli/package.json
+  last_updated_by: Patrik Oldsberg
+  last_updated_on: 2020-04-05 12:08:43.000000000 Z
 - name: chokidar
   description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
   package_url: https://www.npmjs.com/chokidar
@@ -2121,6 +2201,21 @@ tools:
   detection_source: packages/core-components/package.json
   last_updated_by: Brian Fletcher
   last_updated_on: 2021-10-27 14:38:38.000000000 Z
+- name: dataloader
+  description: A data loading utility to reduce requests to a backend via batching
+    and caching
+  package_url: https://www.npmjs.com/dataloader
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18149/default_5813ab9c745152271a057cdab6eeded8939401f3.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/yarn.lock
+  detection_source: plugins/permission-backend/package.json
+  last_updated_by: MT Lewis
+  last_updated_on: 2022-01-05 12:34:46.000000000 Z
 - name: del
   description: Delete files and directories
   package_url: https://www.npmjs.com/del
@@ -2529,6 +2624,20 @@ tools:
   detection_source: plugins/airbrake-backend/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2022-08-19 10:58:13.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Patrik Oldsberg
+  last_updated_on: 2022-08-22 08:45:00.000000000 Z
 - name: immer
   description: Create your next immutable state by mutating the current one
   package_url: https://www.npmjs.com/immer
@@ -2744,6 +2853,20 @@ tools:
     detected_date: Dec 21
     severity: high
     first_patched: 2.4.0
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 13.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Frida Jacobsson
+  last_updated_on: 2022-09-23 07:22:18.000000000 Z
 - name: lunr
   description: Simple full-text search in your browser
   package_url: https://www.npmjs.com/lunr
@@ -3480,6 +3603,20 @@ tools:
   detection_source: packages/cli/package.json
   last_updated_by: Luka Siric
   last_updated_on: 2022-08-31 14:55:08.000000000 Z
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 3.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/yarn.lock
+  detection_source: packages/backend-app-api/package.json
+  last_updated_by: Fredrik Adelöw
+  last_updated_on: 2022-06-15 13:44:10.000000000 Z
 - name: xml2js
   description: Simple XML to JavaScript object converter
   package_url: https://www.npmjs.com/xml2js
@@ -3530,6 +3667,20 @@ tools:
   detection_source: plugins/scaffolder-backend-module-yeoman/package.json
   last_updated_by: Patrik Oldsberg
   last_updated_on: 2022-02-11 13:10:28.000000000 Z
+- name: yup
+  description: Dead simple Object schema validation
+  package_url: https://www.npmjs.com/yup
+  version: 0.32.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17215/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/ankurkumarz/backstage/blob/master/yarn.lock
+  detection_source: packages/config-loader/package.json
+  last_updated_by: Patrik Oldsberg
+  last_updated_on: 2020-06-03 12:37:22.000000000 Z
 - name: zen-observable
   description: An Implementation of ES Observables
   package_url: https://www.npmjs.com/zen-observable
